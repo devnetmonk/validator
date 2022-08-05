@@ -477,7 +477,7 @@ OUTER:
 					},
 				)
 
-				return
+				// return
 			}
 			ct = ct.next
 		}
