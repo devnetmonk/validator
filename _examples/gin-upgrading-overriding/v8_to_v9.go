@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"sync"
 
+	"github.com/devnetmonk/validator"
 	"github.com/gin-gonic/gin/binding"
-	"github.com/go-playground/validator/v10"
 )
 
 type defaultValidator struct {
